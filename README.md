@@ -1,2 +1,2 @@
 # pallete
-some pallete for terminal 
+pallete for termianal on rust
